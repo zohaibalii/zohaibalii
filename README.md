@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zohaib Ali</h1>
 <h3 align="center">Web Developer</h3>
 
-- My Resume Link [https://zohaib.thesystemsolutions.com/]([https://zohaib.thesystemsolutions.com/](https://zohaibali.netlify.app/))
+- My Resume Link [https://zohaib.thesystemsolutions.com/]([https://zohaib.thesystemsolutions.com](https://zohaibali.netlify.app/)/](https://zohaibali.netlify.app/))
 
 - 📫 How to reach me **zohaibbuzdarr@gmail.com**
 
